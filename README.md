@@ -18,6 +18,10 @@ Or install it yourself as:
     $ gem install jquery_gantt_rails
 
 
+## Usage
+
+TODO: add info about requiring it in application.js, etc...
+
 ## Contributing
 
 1. Fork it
