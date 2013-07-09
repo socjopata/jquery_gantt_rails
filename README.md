@@ -1,7 +1,7 @@
 jquery_gantt_rails
 ==================
 
-This gem packages jQueryGantt js library, written by robicch. This gem target fork made by ryrych.
+This gem packages jQueryGantt js library, written by [robicch](https://github.com/robicch/jQueryGantt). This gem target fork made by [ryrych](https://github.com/ryrych/jQueryGantt).
 
 ## Installation
 
@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: add info about requiring it in application.js, etc...
+Add the following directive to your Javascript manifest file (application.js):
+
+//= require jquery_gantt_rails
 
 ## Contributing
 
